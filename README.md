@@ -48,9 +48,6 @@ python app.py
 - **Integration with Wearable Devices**: For continuous health monitoring.
 - **Real-Time Diagnosis Support**: Live consultation with doctors via AI-driven recommendations.
 
-## Contributors
-- Your Name (@your-handle)
-- Team Members (@team-handle)
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
